@@ -106,7 +106,7 @@ This repository demonstrates:
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
+* 💼 LinkedIn: www.linkedin.com/in/nitishkumar-khavekar
 * 💻 GitHub: https://github.com/your-username
 
 ---
